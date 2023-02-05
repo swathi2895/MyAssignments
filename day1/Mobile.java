@@ -11,6 +11,7 @@ public static void main(String[] args) {
 	boolean isDamaged=false;
 	System.out.println("Mobile brand name is "+' '+mobileBrandName);
 	System.out.println("Mobile logo is "+' '+mobileLogo);
+	System.out.println("No of mobile piece" +' '+noOfMobilepiece);
 	System.out.println("Model number is" +' '+modelNumber);
 	System.out.println("mobile Imei number is"+' '+mobileImeiNumber);
 	System.out.println("Mobile price is "+' '+mobilePrice);
